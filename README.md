@@ -5,4 +5,5 @@
 （确保你的电脑环境有node环境)
 
 
-然后前往前端可视化部分：
+然后前往前端可视化部分：https://github.com/shiyuaikanxue/Data-visualization-vue
+克隆到本地运行即可完成
